@@ -158,7 +158,8 @@ h1{
 }
 
 #contacts-text-subscribe{
-    padding:70px;
+    padding-left:30px;
+    padding-right:30px;
     width:25%;
  background-color:#FF5959 ;
  color: white;
